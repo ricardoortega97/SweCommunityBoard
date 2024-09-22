@@ -4,7 +4,7 @@ body {
     place-items: center;
     min-width: 320px;
     min-height: 100vh;
-    background-color: rgb(129, 197, 248);
+    background-color: rgb(103, 155, 196);
   }
 .Card {
   flex: 1 1 300px; 
@@ -13,7 +13,7 @@ body {
   color: #000;
   background-color: whitesmoke;
   padding-bottom: 20px;
-  box-shadow: 0 15px 25px #817c7c33;
+  box-shadow: 0 15px 25px #2a0fa333;
   font-size: medium;
   border-radius: 12%;
   backdrop-filter: blur(2px);
@@ -22,7 +22,7 @@ body {
   height: auto; 
 }
 .Card img {
-  object-fit: cover;
+  object-fit: contain;
   border-radius: 12%;
   width: 100%;
   height: auto;
@@ -32,7 +32,7 @@ body {
   place-items: center;
   height: 300px;
   border-radius: 12%;
-  padding: 10px;
+  padding: 12px;
 }
 button {
   margin-top: 10px;
@@ -63,4 +63,10 @@ button:hover {
 }
 .grey {
   background-color: rgb(50, 49, 47);
+}
+.green {
+  background-color: rgb(19, 56, 53);
+}
+.light-green {
+  background-color: rgb(0, 136, 77);
 }
