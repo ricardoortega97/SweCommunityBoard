@@ -41,9 +41,18 @@ GIF created with LICEcap iOS
 ## Notes
 
 Chanlleges: 
-- Aligning the cards to adjust the size when the user changes the size of the window where the first row changes size but the next row was the same size
-- Adding animations to make the transition smoother when the user scrolls the first time 
-- Applyiing z-index property on the banner for the text and the image blend in together as a stack and sdjust the size
+- Aligning the cards to adjust the size when the user changes the size of the window where the first row changes size but the next row was the same size.
+- Adding animations to make the transition smoother when the user scrolls the first time. 
+- Applyiing z-index property on the banner for the text and the image blend in together as a stack and sdjust the size.
+- Used ChatGTP for minior assistance with CSS styling/recomendations and to explain how certain codes work on the ones that I did not understand well  
+
+## Learning Experience
+
+This project was developed as a learning experience, focusing on:
+
+- **React + Vite**: Initialize a new React application with Vite.
+- **React Components**: Create a functional React component and difine and pass props to components.
+- **CSS Styling**: Apply CSS styling to React components.
 
 ## License
 
