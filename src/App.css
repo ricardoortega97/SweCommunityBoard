@@ -26,5 +26,32 @@ img {
   align-items: center; 
   gap: 15px;
 }
+#head-container {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  margin-bottom: 10px;
+  text-align: left;
+  position: relative;
+  align-items: center;
+}
 
+#head-container img {
+  max-height: 300px;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  z-index: 1;
+  margin-left: -200px;
+}
 
+#head-container h1 {
+  font-size: 1.5rem;
+  margin-top: 10px;
+  color: #333;
+  z-index: 2;
+  position: relative;
+  margin-left: 10px;
+  padding: 10px;
+}

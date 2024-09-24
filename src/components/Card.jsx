@@ -3,7 +3,7 @@ import Event from "./Event";
 
 const Card = () => {
     return (
-        <div className="Container">
+        <div className="Container revealable">
             
             {/* CS50 */}
             <Event 
