@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/fKNv43t.gif' title='SWE.gif' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/cuPQiTx.gif' title='SWE.gif' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap iOS
